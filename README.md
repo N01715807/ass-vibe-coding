@@ -16,5 +16,5 @@ Built for the **Vibe Coding** assignment — created in less than three hours us
 
 ## Deployment
 This project is hosted on **GitHub Pages**.  
-Live demo: [https://yourusername.github.io/compliment-web/](https://yourusername.github.io/compliment-web/)  
-Source code: [https://github.com/yourusername/compliment-web](https://github.com/yourusername/compliment-web)
+Live demo: https://n01715807.github.io/ass-vibe-coding/
+Source code: https://github.com/N01715807/ass-vibe-coding
